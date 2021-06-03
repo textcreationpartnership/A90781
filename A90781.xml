@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pleasant history of Tom Ladle; with the transactions of Peter the plowman, and Betty his mother Licensed according to order.</title>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90781</idno><idno type="EEBO-CITATION">99896823</idno>
+  <idno type="VID">137036</idno>
+  <idno type="EEBO-PROQUEST">2240938277</idno>
+  
+            <idno type="STC">Wing P2551F</idno>
+            <idno type="STC">ESTC R231452</idno>
+            <idno type="PROQUEST">99896823</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896823e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90781)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137036)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2447:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pleasant history of Tom Ladle; with the transactions of Peter the plowman, and Betty his mother Licensed according to order.</title>
+               </titleStmt>
+               <extent>23, [1] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Blare at the Looking-glass on London-bridge, near the Church,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Wing CD-ROM, 1996 gives a range of dates, 1682-1700.</note>
+                  <note>O copy, reel 2447, is stained affecting legibility.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Courtship --  Early works to 1800.</term>
+               <term type="topical_term">Love --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137036:1"/>
+            <p>The Pleasant HISTORY OF <hi>Tom Ladle:</hi> WITH THE Transactions of <hi>Peter</hi> the Plow<g ref="char:EOLhyphen"/>man, and <hi>Betty</hi> his Mother.</p>
+            <figure>
+               <figDesc>woodcut of Betty and Peter?</figDesc>
+            </figure>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licensed according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>J. Blare</hi> at the Looking-glass on <hi>London-bridge,</hi> near the Church,</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:137036:2"/>
+            <pb facs="tcp:137036:2"/>
+            <p>The Pleasant HISTORY OF <hi>Tom Ladle;</hi> WITH THE Transactions of <hi>Peter</hi> the Plow<g ref="char:EOLhyphen"/>man and <hi>Betty</hi> his Mother.</p>
+            <p>ALSO How <hi>Tom</hi> was Avenged of the Intru<g ref="char:EOLhyphen"/>ding <hi>Barber,</hi> and also of the intermedling <hi>Parson.</hi>
+            </p>
+            <q>
+               <l>Intermedlers oft prepare</l>
+               <l>Shame and Derision for their share.</l>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licensed according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>J. Blare</hi> at the Looking-glass on <hi>London-bridge,</hi> near the Church.</p>
+         </div>
+      </front>
+      <body>
+         <div type="story">
+            <div n="1" type="chapter">
+               <pb facs="tcp:137036:3"/>
+               <pb n="5" facs="tcp:137036:3"/>
+               <head>
+                  <hi>CHAP. I.</hi> How <hi>Peter</hi> the Plow-man wooed <hi>Betty, Tom Ladle</hi>'s Mother, with what happened.</head>
+               <p>IN the Country lived with a worthy Lady a Maid-servant, who was more handsome than rich, her Fortune consisting only of a good Face; and such small moneys and cloaths as she had gained in service: The pre<g ref="char:EOLhyphen"/>mises considered, and also well knowing that it is but slippery holding by Holly Branches, she resolved to accept the proffers of <hi>Peter</hi> the Plow-man (who had long suited her) the next time he should ask her the question. <hi>Peter</hi> had somewhat more than she, but not much; yet rather than she would run the hazard of losing her Teeming time, she would venture that manner of living (which amongst Love-toys is but little considered.) The Business was not long deferred, but upon the first opportuni<g ref="char:EOLhyphen"/>ty he renewed his old suit, and in short time gained what he long had pursued with little hopes. They having thus far proceeded, no<g ref="char:EOLhyphen"/>thing
+<pb n="6" facs="tcp:137036:4"/> was wanting but the consent of the Lady, (who was noble to her Servants that match<g ref="char:EOLhyphen"/>ed with her consent,) but who should ask that question was the question, for she was loth, and he resolved rather to break off the Match, than to go about to speak to the Lady upon a<g ref="char:EOLhyphen"/>ny such Errand; for her part she was in long doubt, but recalling to mind all the before<g ref="char:EOLhyphen"/>mention'd Considerations, she pluc'kd up a good heart, early one Morning in her Ladies Chamber, who then was a dressing, where af<g ref="char:EOLhyphen"/>ter some pauses, and fluttering of words, she broke the matter to her Lady, who at first seemed amazed (for she judged the Wench to deserve a better Fortune) but recovering her Judgment, she answered her with words sui<g ref="char:EOLhyphen"/>table to the occasion: But the Wench persi<g ref="char:EOLhyphen"/>sting in the suit with much earnestness, her La<g ref="char:EOLhyphen"/>dy bid her go forward, and feel the smart of her folly; the Wench hasting out of the Cham<g ref="char:EOLhyphen"/>ber, said, That she could better endure both the smart and pain all her life long, then she could endure the present itching: which being spoken with a dry simplicity, caused all pre<g ref="char:EOLhyphen"/>sent to laugh.</p>
+               <q>
+                  <l>The slye fed Sow little knows</l>
+                  <l>What<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>r the Meat she eats, she ows:</l>
+                  <l>Even so, pamper'd Wenches will be Wives,</l>
+                  <l>To leave plenteous quiet for sorry lives.</l>
+               </q>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="3" facs="tcp:137036:4"/>
+               <head>
+                  <hi>CHAP. II.</hi> How <hi>Tom</hi>'s Mother went to Market, where she met with a Gallant, and what happened with <hi>Peter</hi>'s and <hi>Betty</hi>'s Marriage.</head>
+               <p>LEave being granted, the day of Marriage was soon appointed, and they both judged what was necessary for the solemnizing of that ensuing Feast, saving some small matter that was to be bought at Market, whither she went; as she travelled the Road, it was her Fortune to meet with a neighbouring Gentleman, with whom she falling into discourse, it was agreed to go to his Inn; where they being Arrived, and Chambered, he freely calls for burnt Cla<g ref="char:EOLhyphen"/>ret, she not acquainted with its strength, swal<g ref="char:EOLhyphen"/>lowed it down hastily, she thinking the sweet<g ref="char:EOLhyphen"/>ness thereof had been the worst, became there<g ref="char:EOLhyphen"/>by so mettled in discourse, and so enflamed in colour, that it added much to her natural parts, and so much to his courage, that at last he began to move her to yield to his desires; at first she seems coy, but he Firing some Chase Guns at her Honesty, she but weakly try'd to defend her self against a Man of War, of his Force; in conclusion she was forced to tack a Stern, and strike Sail, and enter into so amo<g ref="char:EOLhyphen"/>rous an Encounter, that the furious Youth well nigh had sunk her in the Ocean of delight.
+<pb n="8" facs="tcp:137036:5"/> In the end of this Rancounter he became an alter'd Man, for he who but now, even now went on like a Lyon, became more tame than an Ass; then recollecting all the folly past, and that for one moments pleasure, he had run the hazard of losing his Father's Affection who had disinherited his Eldest Brother, for getting a Wench with Child; and he well foresaw, that he must not expect more favour from him on the self same occasion.</p>
+               <q>
+                  <l>The eager Youth with heat pursues</l>
+                  <l>What he no sooner gain'd, but rues.</l>
+               </q>
+               <p>But <hi>Betty</hi> perceiving the Change, though she knew not the reason, advanced towards him, asking him how he came now so alter'd in his humors, who but even now had enjoyed what he so eagerly desired, to whom he told the reason; whereat she smiled, and said, let not that trouble you, for my business to Mar<g ref="char:EOLhyphen"/>ket is to buy necessaries for my Marriage, which is to be on <hi>Monday</hi> next, and shall you vouch<g ref="char:EOLhyphen"/>safe the pains to come, you shall be heartily welcome. He upon the news recovers his lost courage, and rallies anew, they to their own liking afterwards pursuing the looseness of their wild Affections, where he got her with Child, which the poor Plow-man owned; as afte<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ards shall appear, he being like many of <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ose who Father anothers Labours to their own disgrace.</p>
+               <pb n="9" facs="tcp:137036:5"/>
+               <p>The Gallant and she being both weary, and night calling for a return, they by consent pack homewards, and where they met, there they parted much satisfied in their past recreation, vowing to each other a perpetual correspon<g ref="char:EOLhyphen"/>dency, where they shall rest till <hi>Monday;</hi> which day no sooner comes, but all parties concer<g ref="char:EOLhyphen"/>ned hast forward to solemnize the Bridal Feast to which the youngster hastens amongst the rest; to Church they go, Sir <hi>John</hi> opens his Book, proceeds to the half, then calls for moneys, say<g ref="char:EOLhyphen"/>ing he could not trust; some <hi>Peter</hi> gave him, but not enough, which he refuses, whereat the Bride being angry, told him, that the greatest of his labour being wind, if he grudged it so much, he might keep it to cool his Pottage, and let so many words be omitted as counter<g ref="char:EOLhyphen"/>vailed the wanting part; whereupon the co<g ref="char:EOLhyphen"/>vetous Parson being ashamed, and heartily laughed at, proceeded to the conclusion, and all content, home they went to Dinner.</p>
+               <p>Table being taken away, some fell to drink<g ref="char:EOLhyphen"/>ing, some to dancing, and others to courting the Maids; of which he was one of the for<g ref="char:EOLhyphen"/>most, giving slip to the company, he got the opportunity to be led into the Brides Room; who pretending not to be well, was laid down; the Room was dark, and they thought the free<g ref="char:EOLhyphen"/>lier to pass the time without suspicion, for her Mother had taken the task upon her to an<g ref="char:EOLhyphen"/>swer all demand.</p>
+               <q>
+                  <pb n="10" facs="tcp:137036:6"/>
+                  <l>But when Danger's least our fear,</l>
+                  <l>Then is danger oft most near.</l>
+               </q>
+               <p>For so then it came to pass; for <hi>Peter</hi> lon<g ref="char:EOLhyphen"/>ging to have a kiss of his Bride (unknown to the mother) steals in, whose sudden arrival made the Gamesters begin to shift; but as ill Fortune would have it, a short Board being carelesly laid over an empty broken-headed Barrel, upon which he unadvisedly stept, and so fell in, with so hideous a noise, that <hi>Peter</hi> was almost frightned out of the Room, but the care of his Bride so encouraged him, that laying all danger aside, he boldly came to the Bed-side, where he found poor <hi>Love in a Tub,</hi> and his wife half dead, through the surprizal and fear; he soon knew him, and spared no threatning Language, though in such secret wise, that none else knew ought thereof; the young <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>n excused her, and generously under<g ref="char:EOLhyphen"/>took all the blame, giving the Cuckold some Guinea's, which so eased his mind, that he had almost forgot to keep the Amorous Gallant out of the Trap, who was not a little over<g ref="char:EOLhyphen"/>joy'd that he had past so eminent a danger, and brought her out of that fear with so little charge and trouble.</p>
+               <q>
+                  <l>Faw that this Reads, but well doth know,</l>
+                  <l>That Love will creep where it cannot go:</l>
+                  <l>And Women with rich Men may be bold,</l>
+                  <l>For Cuckold's Sight are dim with Gold.</l>
+               </q>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="11" facs="tcp:137036:6"/>
+               <head>
+                  <hi>CHAP. III.</hi> How <hi>Tom</hi> was born, his Mother lost her first Gallant, and how she entertained <hi>Cut-beard</hi> the Barber, with what happened.</head>
+               <p>ENdeavours, and Time swell'd <hi>Betty</hi>'s Belly, who shortly after was delivered of a brave Boy, to whom the Gallant was God-Father, and as became his quality, he gave the Gifts of a well-bred Gentleman; which so endeared <hi>Betty</hi>'s Affections towards him, that they were grown even to dotage, and his kindness was in all respects so indulging, that she never doubted their change. But alas! the Sun that shone yesterday, this day is Set, and he to his grief must not only be married, but also live far from the Jewel of his heart, which hap<g ref="char:EOLhyphen"/>pen'd so suddenly, that he had not the least opportunity to give <hi>Betty</hi> notice ther<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>f; of which she was sometime ignorant, but no soo<g ref="char:EOLhyphen"/>ner heard thereof, but like a mad woman, she endangered the running out of her wits. But <hi>Cut-beard</hi> the Barber being a Smell-Smock, and handsom, who all along tendred her his Service, so handled the matter (who under the notice of giving of Physick) had the recourse unto her, that he not only perswades her out of her sorrow, but also got her good will, which he freely possessed with all she had, till <hi>Tom</hi> grew up and went to School.</p>
+               <pb n="12" facs="tcp:137036:7"/>
+               <p>
+                  <hi>Tom</hi> being one day come from School, per<g ref="char:EOLhyphen"/>ceived the Barber and his Mother doing som<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>thing, but what he knew not, nevertheless supposed the thing to be to the disadvantage of his Mother, she being undermost, and contra<g ref="char:EOLhyphen"/>ry to her will, caught up a new mended Lad<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> out of which stuck a sharp piece of Wy<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with which he let drive at the Barber's Poste<g ref="char:EOLunhyphen"/>riors, and not only wounded him, but mad<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> leave his sport to see what enemy gave hi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that back blow, when he least dreamed o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> more Battels to fight, then what he was enga<g ref="char:EOLunhyphen"/>ged in; the hasty Barber (not dreaming o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ensuing Evil) struck the Boy such a blow o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Ear, that he felled him; which his Mo<g ref="char:EOLhyphen"/>ther espying, so foully fell upon the Barber, that with the noise <hi>Peter</hi> came in, who seeing the fray, and the boy crying, made without fur<g ref="char:EOLunhyphen"/>ther examination, the fourth Person, and so belaboured poor <hi>Cut-beard,</hi> that with Bree<g ref="char:EOLhyphen"/>ches in hand, he was forced to betake himself homeward both through thick and thin. The Barber gone, and <hi>Peter</hi> return'd, he ask'd the reason of the Quarrel, to whom she said, that he out of his kindness, starting upon a Joint<g ref="char:EOLhyphen"/>stool to take down a Cheese, fell, hurt him<g ref="char:EOLhyphen"/>self and broke down his Breeches, and in the fall hurt the Child, for which they were then at Wars; he no sooner hearing that, but said, She did Ill to abuse, and cause to be abus'd, a
+<pb n="13" facs="tcp:137036:7"/> man that was in no fault, for hastning out of doors, posted after his Neighbour, who ha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing but even now got up his Breeches, and seeing <hi>Peter</hi> coming after him (fraught with a guilty Conscience) fled like a Hare before the Dog; for he only considered the danger that <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>as behind, and not minding a low Hedge just <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>efore him, which he to his sorrow fell over, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>reaking his Shins, and to amend the matter, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e fell into a Pond half full of Water, and half <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll of Puddle, which was just behind the Hedge, in which he doubtless had been drown'd, had not the most charitable Cuckold alive him helped him out, home, and to bed, where he lay some time in a bad posture. But in the mean time, many of <hi>Tom</hi>'s Play-fellows hearing his Out-cry, asked the question what the matter was, to which as the time would <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>erve, she answered that he had shit in the La<g ref="char:EOLhyphen"/>dle, for which he was whipped; whereat all <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>aughing, called him <hi>Tom Ladle;</hi> which name Winter and Summer he retained all the days of his Life.</p>
+               <q>
+                  <l>Old love rak'd up, and though in Embers hid,</l>
+                  <l>Will nevertheless all equal power forbid.</l>
+               </q>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="14" facs="tcp:137036:8"/>
+               <head>
+                  <hi>CHAP. IV.</hi> How the Barber and <hi>Betty</hi> were reconciled,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> how <hi>Tom Ladle</hi> was revenged on them bo<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </head>
+               <p>
+                  <hi>WHat the Eye sees not, the Heart rues</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> so fell it out with <hi>Peter;</hi> for had he kno<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the truth of the Quarrel, the Devil (dou<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>less) might have had the Barber e'er he wo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> have so much urged his Wife to go visit<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as he did; through his importunity she<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> only visits him, but makes a good spiced bo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>led Pudding for him to eat, she knowing he a<g ref="char:EOLunhyphen"/>bove all things loved that meat. <hi>Tom</hi> feel<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> his Mother so busie, asked her, <hi>Who that w<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> for?</hi> she said, <hi>It was for the Barber,</hi> and so w<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to fetch a Pot of good Ale to carry with he<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Tom</hi> was full of revenge in his mind, fir<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> being beaten, next, being Nick-named, which had so rancor'd in his little Stomach, that<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> resolved never to let slip any occasion of r<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>quital: wherefore he finding this opport<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nity, filled another bag full of T—, took o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Pudding, (which he favourly with h<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Trusty Friends afterwards eat) and put the stinking Bag into the Pot; she coming in, and mistrusting nothing less, hastens with the Concern to the Barber, who being ill at ease (though he remembred the yesterdays inju<g ref="char:EOLhyphen"/>ries) yet received her kindly; but no sooner had she turn'd out her parboil'd T—, but there was such a smoking stink, that the Bar<g ref="char:EOLhyphen"/>ber
+<pb n="15" facs="tcp:137036:8"/> concluded that she had brought the same to have poisoned him; poor <hi>Betty</hi> was so a<g ref="char:EOLhyphen"/>maz'd, that she could scarcely say any thing in her own defence; but Necessity has no Law, she must either defend her innocency or run the hazard of being beaten by a half distracted man; for he rag'd, and in his fury threw the Bed-staff at her, and was coming out of Bed with the other, to second his en<g ref="char:EOLhyphen"/>deavours of revenge; she seeing his intenti<g ref="char:EOLhyphen"/>on, closes within him, and throws the wound<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Barber on the Floar, and with the Fall breaks his stone Chamber-pot, and so hurts <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Back, that the poor Barber was forced to go to Bed half dead and half mad; but she having got the upper hand in that encounter, by her Protestations clear'd her self of the imputed crime, and for that time left him. The Barber being recovered, he afterwards courted <hi>Tom</hi> up for his Mothers sake; but <hi>Tom</hi> being not to be decoy'd with Sugar<g ref="char:EOLhyphen"/>plums, in his mind proclaimed War against both the Barber and Mother, and resolved to break either their Hams, Hearts, or Necks.</p>
+               <p>
+                  <hi>Tom</hi> seeing his Mother and the Barber very merry together at the Alehouse, and about to return, creeps into the Barber's shop at a bro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en Window, and under a parcel of Hair puts <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ome Gunpowder, and by it places the Tin<g ref="char:EOLhyphen"/>der-box, and so goes to play; they hie them
+<pb n="16" facs="tcp:137036:9"/> home, and he regarding nothing more than to please his Friend, makes haste to strike Fire, but had the ill Fortune to light amongst the unseen Powder, which blew up with such a career, that he and she thought the Devi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> had come for them both, the suddenness of the flash so amazed her, that she bewrayed her self, so that she was not able to stir for fear of being smelt; but the poor Barber lost all the Hair off his Eye-brows, tumbled back, and broke his best Looking-glass, which cut his head; but alas! that was not all, for there stood in the way a Pan of Charcoal; which in the Fall he touching, fell all upon him, and some of it into his best Breeches, that e'er he could discharge himself thereof, it burnt through the broad-side; how flesh and bloud endured it, that I leave to People that have tasted the like Fiery Trials; but I doubt not but it coo<g ref="char:EOLhyphen"/>led the heat of both of them, and administred Talk amongst the suspicious, and delight e<g ref="char:EOLhyphen"/>nough to honest <hi>Tom Ladle.</hi>
+               </p>
+               <q>
+                  <l>Beware of Tricks, lest you with Tricks be beaten,</l>
+                  <l>Like to him burnt, and she her self be—ten.</l>
+               </q>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="17" facs="tcp:137036:9"/>
+               <head>
+                  <hi>CHAP. V.</hi> How in Process of time <hi>Tom</hi> growing too confi<g ref="char:EOLhyphen"/>dent of his Tricks, was accordingly paid off, and what hapned.</head>
+               <p>THE Barber (as I said before) and <hi>Tom</hi> for a long time kept good correspon<g ref="char:EOLhyphen"/>dence, till he, both too full of revenge, and too presumptuous, was caught in his own wile, and beaten for his pains. But going from School home on the <hi>Saturday</hi> at Noon to Dinner, seeing no one, and hearing some noise (suspecting the matter) peep'd in, and sees his Mother, and the Barber engaged in a Love duel, which time had taught him better to understand than formerly; which he no sooner sees, but silently and unperceived goes out of the house; all things rest till he went to Catechising, where amongst other young People the Barber was present; it unluckil<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fell upon <hi>Tom</hi>'s share to be ask'd, <hi>How many Commandments there were? Tom</hi> says, <hi>Nine;</hi> to which, angerly, the Parson said, <hi>How hap<g ref="char:EOLhyphen"/>pens that? there was one more; yea,</hi> saith <hi>Tom, there was Ten before the Barber and my Mother broke one of them</hi> At which Answer ye may all judge how all the people laughed, and the Barber for very shame slunk out of Doors,
+<pb n="18" facs="tcp:137036:10"/> and home he goes to <hi>Betty,</hi> and relates the Adventure to her, and withall concludes, that <hi>Tom</hi> had been the Instrument of all fore<g ref="char:EOLhyphen"/>going mischiefs; bidding her, during her correcting him, to put the same to him. She perswades her Husband to go to carry a To<g ref="char:EOLhyphen"/>ken to her Lady, that she had provided for that purpose: He accepts of the Message, by which means she had free liberty to call her Son to an Account, who (for his rash Rogue<g ref="char:EOLhyphen"/>ry) knew he well deserved it. He cunning<g ref="char:EOLhyphen"/>ly stole to bed, but all in vain, that will not serve poor <hi>Tom</hi>'s turn; the Devil owed him a shame, and he sent his Mother to pay it him. <hi>Tom</hi> being in Bed, and thinking the worst had been past) up comes his Mother, arm'd at all Points with a Birchin Rod, which she ex<g ref="char:EOLhyphen"/>ercised upon his blind Cheeks to some pur<g ref="char:EOLhyphen"/>pose: Poor <hi>Tom,</hi> like a fresh-water Souldier, answers all Interrogatories, owning all his past faults, for which he was paid in bloudy coin; nor durst he tell stories, though he could scarcely staud or go. But no sooner had he recovered, but he resolved to be re<g ref="char:EOLhyphen"/>venged, and once more try his Fortunes, which was as followeth. The Barber had a Mare, which he dearly loved, which was big with Foal, under whose Tail <hi>Tom</hi> put a bundle of Nettles, which caused her to winch <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>k till she had cast her Foal, and was
+<pb n="19" facs="tcp:137036:10"/> almost dead. The Barber coming home, e<g ref="char:EOLhyphen"/>spying <hi>Tom</hi> upon the run, crys halloo to a muzzl'd Mastive-Dog, that he had; who soon overtaking <hi>Tom,</hi> first turn'd him into a Plat of Nettles, and then in a bad condition being got up, and thinking to gain a narrow Gate (the Dog pursuing of him) they were so locked in together, that the Barber had a fair mark at his Breech, which he so pepper'd that <hi>Tom</hi> was forced both to cry mercy for all former deeds, and promise no more to med<g ref="char:EOLhyphen"/>dle with him.</p>
+               <p>The Barber seeing his mischievous humor, was resolved to be even with him, and turn his malice another way. Wherefore he told the <hi>Parson,</hi> who promised the next time to give him due Correction; which he did, and so flaugh'd his Breech, that <hi>Tom</hi>'s malice was wholly bent to be revenged of him and the Barber at once. Not long after that, the Boys having leave to play, the <hi>Parson</hi> and the <hi>Barber</hi> went to the next Town to be mer<g ref="char:EOLhyphen"/>ry; <hi>Tom</hi> but little, but full of mischeif, takes an Apple, cuts it in many pieces, and in each piece puts a crooked Pin, fastened to a Pack-thread, which he threw amongst the greedy Geese, who danced such a dance (that to <hi>Tom</hi>'s content) lost all their lives. No soon<g ref="char:EOLhyphen"/>er he unseen done this, but he goes to a Corn Field, through which they needs must come,
+<pb n="20" facs="tcp:137036:11"/> and ties the Heads of the Corn together in many places; by which means, coming home, they both fell, and the <hi>Barber</hi> broke a lusty Bottle of Ale that was to be carried home for the <hi>Parson</hi>'s Wife. The <hi>Parson</hi> swaggered at the misfortune, but the <hi>Barber</hi> told him that it was <hi>Tom Ladle</hi>'s Roguery; and he then be<g ref="char:EOLhyphen"/>lieved he must not expect to go free, for his last whipping given to <hi>Tom;</hi> for his part he had received so many evils from that Curs'd Cur, that he desired not to have more to do with him. They thus walking and fretting, often fell-down, till at last they got home; where no sooner Arrived, but the <hi>Parson</hi>'s Children meeting him, told him that they should have Goose Pyes enough, for they were all dead, and hung upon a Packthread. The <hi>Parson</hi> almost mad, caused the <hi>Barber</hi> heartily to laugh, which so enraged the covetous <hi>Par<g ref="char:EOLhyphen"/>son</hi> (he being Pot-valiant) that he struck the <hi>Barber</hi> such a blow on the Head, that had not the good Wife interposed, there had been much mischief done between them in their Cups, and all through <hi>Tom</hi>'s means.</p>
+               <q>
+                  <l>'Tis not Strength alone that Arms a man,</l>
+                  <l>But Wit, with little Strength conjoyned can.</l>
+               </q>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="21" facs="tcp:137036:11"/>
+               <head>
+                  <hi>CHAP. VI.</hi> How <hi>Tom</hi> was beaten, and how he was reveng<g ref="char:EOLhyphen"/>ed both of the <hi>Barber</hi> and the <hi>Parson,</hi> and all the Scholaers, with what happened.</head>
+               <p>HE that hath an evil name, is reputed half hanged; so fell it out with <hi>Tom,</hi> for no Roguery was done in Town, but he was bla<g ref="char:EOLhyphen"/>med for it. Wherefore he no sooner came to School, but he was soundly jerked, which se<g ref="char:EOLhyphen"/>vere usage, made him busie himself for a re<g ref="char:EOLhyphen"/>venge. He was much jear'd for his often be<g ref="char:EOLhyphen"/>ing whipt, as also for shitting in the Ladle, by his fellow Scholars, which he stomached extreamly. And therefore one day, when leave was granted to play, and some Boyes busied in Swimming (which was forbidden) o<g ref="char:EOLhyphen"/>thers in Robbing of Apple-trees; with seve<g ref="char:EOLhyphen"/>ral like unlawful Exercises, all which he told to his Master; for which the next Morning there was a general whipping throughout the School. <hi>Tom</hi> thought himself somewhat sa<g ref="char:EOLhyphen"/>tisfied for the injuries done him by them.</p>
+               <p>School being done, the <hi>Parson</hi> told the Boys that <hi>Tom Ladle</hi> was the cause of their whipping; for which he no sooner got out of School, but they seiz'd him, and with a hand<g ref="char:EOLhyphen"/>full of Nettles, so whipped him, that <hi>Tom</hi>
+                  <pb n="22" facs="tcp:137036:12"/> was glad to make Truce, and Swear by all his Roguery, never to betray them more; which so long as he was a School-Boy he duly obser<g ref="char:EOLhyphen"/>ed.</p>
+               <p>The Parson and the Barber meeting, laugh<g ref="char:EOLhyphen"/>ed heartily at <hi>Tom</hi>'s disgrace, but he resolved to pay them off in their own coyn. The Par<g ref="char:EOLhyphen"/>son and the Barber (for the blows given) had been sometime at variance; but on a Holy-day they agreed to go to Market to be merry, and drink down all ill will. <hi>Tom</hi> having notice of their intentions, prepared for a new revenge, for his last affront done by their contrivance. Wherefore he ties the corner of a sheet to the top of a long Pole, and upon the top place, a small Lanthorn, in which was a Candle; then gets he the Barbers Dog, which he covers over with some old Linnen Cloaths; and pla<g ref="char:EOLhyphen"/>ces on his back some Squibs and Crackers, and hung at his Tail a Sheeps Bell; in the evening he repairs to a place by which they must needs pass, and there plants himself; it being about two yards from a Gate to which he was tied. All things being ready, and he hearing them come, waits diligently to make every of his contrivances to play its part. Fire being put to every Squib, Cracker, and Serpent; which will burn a certain time eer they dis<g ref="char:EOLhyphen"/>charge their Fury; but to the matter, no
+<pb n="23" facs="tcp:137036:12"/> sooner did they appear; but at the Corner of the Hedge he lifts up his Sheet and Lanthorn; saying, Wo to the Drunkards; they hearing the noise, at first started; but by the snorting of their Horses, they supposed it to have been some Ghost, as they considered the matter, <hi>Tom</hi> threw out a Squib, a Cracker, and a Ser<g ref="char:EOLhyphen"/>pent, which so frightned their Horses; that <hi>nolens, volens,</hi> they fled till they came at the Gate. In the mean time he lets slip the Dog, who frightned with the Fire, and Crackers, made hast homeward, and run full tilt a<g ref="char:EOLhyphen"/>mongst the Horses, who right or wrong broke down the Gate, and passed homewards as if the Devil had driven them. The Dog pur<g ref="char:EOLhyphen"/>sued them close, hoping for redress from his frightned Master, came so near the Horses, that the Barber for fear fell into a swoon, and the Parson running but a little further fell in a quag mire; the smell of their Breeches; left <hi>Tom</hi> a scent to find them out the better, who coming to the Barber, recovered them out of his fears, and made him swear never to come near his mother; then to the Parson he goes, who seeing him, cry'd out, <hi>Avoid Satan.</hi> But <hi>Tom</hi> heartily laughing aloud, let him know his error, the Barber having got his Horse, came up and helped the Parson out of the Bog, where it was agreed, that <hi>Tom</hi> should be silent, and they to be his ever faithful Friends.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:137036:13"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of Betty and Peter?</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:137036:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
